@@ -508,13 +508,6 @@ plt.show()
 ![png](output_10_0.png)
     
 
-
-
-```python
-
-```
-
-
 ## Acknowledgments
 
 Thank you to the open-source community and contributors for making this project possible.
