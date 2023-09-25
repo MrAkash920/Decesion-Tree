@@ -62,14 +62,6 @@ To visualize the generated tree structure, use the `plot_tree` method:
 dt.plot_tree()
 ```
 
-## Contributing
-
-Contributions to this project are welcome! Feel free to open issues, submit pull requests, or provide feedback.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Thank you to the open-source community and contributors for making this project possible.
